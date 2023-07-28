@@ -15,6 +15,7 @@ Thresholding after the seventh stage:
 
 <img width="479" alt="Screen Shot 2023-07-28 at 11 27 44 pm" src="https://github.com/HesamoddinHosseini/Automate_Lung_Segmentation_in_Digitized_Posteroanterior_Chest_Radiographs/assets/89314766/95a9150a-7d22-4894-860f-a4b720065c77">
 
+
 Final segmentation of the lung:
 
 <img width="117" alt="Screen Shot 2023-07-28 at 11 31 11 pm" src="https://github.com/HesamoddinHosseini/Automate_Lung_Segmentation_in_Digitized_Posteroanterior_Chest_Radiographs/assets/89314766/54bd24e7-0ad1-4be9-aaac-5cb5245f7584">
@@ -24,6 +25,7 @@ Final segmentation of the lung:
 Fig N002:
 
 <img width="252" alt="Screen Shot 2023-07-28 at 11 32 51 pm" src="https://github.com/HesamoddinHosseini/Automate_Lung_Segmentation_in_Digitized_Posteroanterior_Chest_Radiographs/assets/89314766/da120d7c-322e-47b1-a436-ec00be5de430">
+
 
 Thresholding after the seventh stage:
 
@@ -40,12 +42,16 @@ Fig N003:
 
 <img width="142" alt="Screen Shot 2023-07-28 at 11 41 06 pm" src="https://github.com/HesamoddinHosseini/Automate_Lung_Segmentation_in_Digitized_Posteroanterior_Chest_Radiographs/assets/89314766/a9ac61c3-414b-4459-b09d-5b090c8f49a5">
 
+
 Thresholding after the seventh stage:
 
 <img width="419" alt="Screen Shot 2023-07-28 at 11 42 50 pm" src="https://github.com/HesamoddinHosseini/Automate_Lung_Segmentation_in_Digitized_Posteroanterior_Chest_Radiographs/assets/89314766/c250dcd0-6b0c-4fde-9595-0207390c2859">
 
 
 Final segmentation of the lung:
+
+<img width="148" alt="Screen Shot 2023-07-28 at 11 44 00 pm" src="https://github.com/HesamoddinHosseini/Automate_Lung_Segmentation_in_Digitized_Posteroanterior_Chest_Radiographs/assets/89314766/04e8d50e-6c2e-43f6-9032-85b3b025833b">
+
 
 
 
