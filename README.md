@@ -5,6 +5,7 @@ The implementation of "Automate Lung Segmentation in_Digitized Posteroanterior C
 
 Result)
 
+---------------------------
 Fig N001:
 
 ![Screen Shot 2023-07-28 at 11 29 43 pm](https://github.com/HesamoddinHosseini/Automate_Lung_Segmentation_in_Digitized_Posteroanterior_Chest_Radiographs/assets/89314766/26f7ec7f-4e64-4047-a2e5-f317cba8123a)
@@ -18,7 +19,7 @@ Final segmentation of the lung:
 
 <img width="117" alt="Screen Shot 2023-07-28 at 11 31 11 pm" src="https://github.com/HesamoddinHosseini/Automate_Lung_Segmentation_in_Digitized_Posteroanterior_Chest_Radiographs/assets/89314766/54bd24e7-0ad1-4be9-aaac-5cb5245f7584">
 ------------------------
----------------------------
+
 
 
 
