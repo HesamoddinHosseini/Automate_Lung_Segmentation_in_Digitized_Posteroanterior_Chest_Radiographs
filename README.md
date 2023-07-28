@@ -42,5 +42,10 @@ Fig N003:
 
 Thresholding after the seventh stage:
 
+<img width="419" alt="Screen Shot 2023-07-28 at 11 42 50 pm" src="https://github.com/HesamoddinHosseini/Automate_Lung_Segmentation_in_Digitized_Posteroanterior_Chest_Radiographs/assets/89314766/c250dcd0-6b0c-4fde-9595-0207390c2859">
+
+
+Final segmentation of the lung:
+
 
 
