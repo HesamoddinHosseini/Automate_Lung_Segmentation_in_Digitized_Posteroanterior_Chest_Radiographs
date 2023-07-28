@@ -1,1 +1,3 @@
-# Automate_Lung_Segmentation_in_Digitized_Posteroanterior_Chest_Radiographs
+# Automate Lung Segmentation in_Digitized Posteroanterior Chest Radiographs
+
+The implementation of "Automate Lung Segmentation in_Digitized Posteroanterior Chest Radiographs" article and the resulting results are shown for 5 chest radiology images
