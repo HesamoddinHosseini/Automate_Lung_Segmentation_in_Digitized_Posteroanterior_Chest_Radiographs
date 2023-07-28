@@ -70,3 +70,7 @@ Final segmentation of the lung:
 
 Fig N005:
 
+<img width="180" alt="Screen Shot 2023-07-28 at 11 49 57 pm" src="https://github.com/HesamoddinHosseini/Automate_Lung_Segmentation_in_Digitized_Posteroanterior_Chest_Radiographs/assets/89314766/14b1936d-9e49-477e-8df5-e310d3822255">
+
+Thresholding after the seventh stage:
+
